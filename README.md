@@ -1,5 +1,6 @@
 # mathai
-Decoder-only Transformer model trained to generate math
+Decoder-only Transformer model trained to generate math logic  
+Trained on the metamath [set.mm](https://us.metamath.org/mpeuni/mmset.html) set of proofs; see the [ACSII symbol guide](https://us.metamath.org/mpeuni/mmascii.html)
 
 After training for a couple minutes, I inputted:
 ```
